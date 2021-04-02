@@ -1,2 +1,3 @@
 git config --global user.name "aman-77"
 git config --global user.email "amansmyles@gmail.com"
+renamed main to MASTER
